@@ -2,7 +2,7 @@
 
 [TOC]
 
- ###  1. Which of these sentences are propositions? What are the
+###  1. Which of these sentences are propositions? What are the
 
 **a)**Boston is the capital of Massachusetts.
 **b)** Miami is the capital of Florida.
