@@ -1,4 +1,4 @@
-# Chapter 1 ─ Exercises 1.1
+# Chapter 1 ─ Exercises 1.1 
 
 [TOC]
 
@@ -53,3 +53,73 @@ d)The summer in Maine is not hot and sunny.
 
 **a)** Jennifer and Teja are friends.
 **b)** There are 13 items in a baker's dozen.
+**c)** Abby sent more than 100 text messages every day.
+**d)** 121 is perfect square
+(perfect square is number can be expressed as the product of two equal integers)
+
+#### Answer
+
+(a) Jennifer is not Teja's friend.
+(b) There aren't 13 items in a baker's dozen(It may be 12 or more than 13, but not 13)
+(c) Abby sent 100 or less than 100 text messages every day.
+(d) 121 is not perfect square.
+
+### 5. What is the negation of each these proposition?
+
+**a)**Steve has more than 100 GB free disk space on his laptop
+**b)** Zach blocks e-mails and texts from Jennifer.
+**c)**  $7 · 11 · 13 = 999$.
+**d)** Diane rode her bicycle 100 miles on Sunday.
+
+#### Answer
+
+(a) Steve has 100GB or less than 100GB free disk space on his laptop
+(b)Zach not blocks e-mail or not blocks texts from Jennifer.
+(c) $7\cdot 11 \cdot 13 \neq 999$
+(d) Diane didn't ride bicycle 100 miles on Sunday.
+
+### 6.
+
+### 7.
+
+### 8. Let $p$ and $q$ be the propositions
+
+**$p$ : I bought a lottery ticket this week.**
+**$q$ : I won the million dollar jackpot.**
+
+Express each of these propositions as English sentence.
+
+a)  $\neg p$              b)  $p\lor q$        c)  $p\rightarrow q$       d)   $p\land q$
+e)  $p\leftrightarrow q$   f)   $\neg p \rightarrow \neg q$      g)  $\neg p \land \neg q$   h)  $\neg p \lor ( p \land q )$
+
+#### Answer
+
+a) I didn't buy a lottery ticket this week.
+b) I bought a lottery ticket this week or I won the million dollar jackpot
+c) if I bought a lottery ticket this week then I won the million dollar jackpot.
+d) I bought a lottery ticket this week andI won the million dollar jackpot
+e) I bought a lottery ticket this week if and only if  I won the million dollar jackpot
+f) if I didn't buy a lottery ticket this week then I didn't win the million dollar jackpot.
+g) I didn't buy a lottery ticket this week and I didn't win the million dollar jackpot.
+h) I didn't buy a lottery ticket this week or I bought a lottery ticket this week ,but I didn't win the million dollar jackpot.
+
+
+
+### 43. Find the bitwise OR, bitwise AND, and bitwise XOR of each of these pairs of bit strings.
+
+a) 101 1110 , 010 0001
+b) 1111 0000 , 1010 1010
+c) 00 0111 0001 , 10 0100 1000
+
+#### Answer 
+
+```
+a)    101 1110  b)   1111 0000  c)    00 0111 0001 
+      010 0001       1010 1010        10 0100 1000
+OR:   111 1111  OR:  1111 1010  OR:   10 0111 1001
+AND:  000 0000  AND: 1010 0000  AND:  00 0100 0000
+XOR:  111 1111  XOR: 0101 1010  XOR:  10 0011 1001
+```
+
+
+
